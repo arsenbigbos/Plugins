@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dynamics", "Dynamics", "{CCE1DECC-1060-4AF7-8B3A-684B17B52E2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{D0D12F64-9463-43F5-BA86-AC72966D35EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{23A35FDB-83DB-45EF-9349-CBAE7DCFD97E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{5E064B39-24AA-46C4-AE38-F2FFDBF6AACC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{B65236F7-A202-4E92-9340-553583A47B09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{9534A04C-2F99-4F2A-B970-B081F71E13E7}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SB.Shared", "SB.Shared\SB.Shared.shproj", "{7171FCA0-7A1C-4AF7-9022-CAE6BA72DF22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomSettings", "InMemoryCache\CustomSettings.csproj", "{50011395-1F1D-4806-BBED-899B1A55E8B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact", "Contact\Contact.csproj", "{C2A3D7CC-F0AB-49BC-A2CC-98810B16D51B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9534A04C-2F99-4F2A-B970-B081F71E13E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9534A04C-2F99-4F2A-B970-B081F71E13E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9534A04C-2F99-4F2A-B970-B081F71E13E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9534A04C-2F99-4F2A-B970-B081F71E13E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50011395-1F1D-4806-BBED-899B1A55E8B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50011395-1F1D-4806-BBED-899B1A55E8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50011395-1F1D-4806-BBED-899B1A55E8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50011395-1F1D-4806-BBED-899B1A55E8B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A3D7CC-F0AB-49BC-A2CC-98810B16D51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A3D7CC-F0AB-49BC-A2CC-98810B16D51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A3D7CC-F0AB-49BC-A2CC-98810B16D51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A3D7CC-F0AB-49BC-A2CC-98810B16D51B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0D12F64-9463-43F5-BA86-AC72966D35EE} = {CCE1DECC-1060-4AF7-8B3A-684B17B52E2D}
+		{5E064B39-24AA-46C4-AE38-F2FFDBF6AACC} = {23A35FDB-83DB-45EF-9349-CBAE7DCFD97E}
+		{B65236F7-A202-4E92-9340-553583A47B09} = {23A35FDB-83DB-45EF-9349-CBAE7DCFD97E}
+		{50011395-1F1D-4806-BBED-899B1A55E8B9} = {D0D12F64-9463-43F5-BA86-AC72966D35EE}
+		{C2A3D7CC-F0AB-49BC-A2CC-98810B16D51B} = {D0D12F64-9463-43F5-BA86-AC72966D35EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DAF6186-4682-4984-9452-229CE1EDEC3C}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SB.Shared\SB.Shared.projitems*{50011395-1f1d-4806-bbed-899b1a55e8b9}*SharedItemsImports = 5
+		SB.Shared\SB.Shared.projitems*{7171fca0-7a1c-4af7-9022-cae6ba72df22}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

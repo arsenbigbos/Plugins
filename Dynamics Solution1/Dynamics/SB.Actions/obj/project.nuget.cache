@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sveCgCeRc7AMv69Nz/dOG6hFsGCuHpyvVcdDhkJtSXpnlSik9RCNYmExwevX2VVbXD9/UtlYOxXMpn5J2Bs4ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arsen\\Desktop\\Dynamics Solution1\\Dynamics\\SB.Actions\\SB.Actions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arsen\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.34\\microsoft.crmsdk.coreassemblies.9.0.2.34.nupkg.sha512"
+  ],
+  "logs": []
+}

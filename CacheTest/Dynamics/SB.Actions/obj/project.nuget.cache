@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAGCrS9NRR7tEtkyYaPxniGBBwn7kmFSLfc8VYCuohYQEOa+Skk09M7EvnC4S8Vlm43410VZRqW8bxtbZ/oHrg==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\SMART IT\\Training\\CacheTest\\Dynamics\\SB.Actions\\SB.Actions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.34\\microsoft.crmsdk.coreassemblies.9.0.2.34.nupkg.sha512"
+  ],
+  "logs": []
+}

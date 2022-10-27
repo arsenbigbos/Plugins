@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dynamics", "Dynamics", "{271B9243-8F4D-4681-AFCA-B19AFB5897F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResources", "Dynamics\WebResources\WebResources.csproj", "{DEEC2F7E-B23F-402A-8C43-BC36F1E0F3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SB.Workflows", "Dynamics\SB.Workflows\SB.Workflows.csproj", "{728134BF-A9A1-4D6D-9BDA-9EFF6015C7E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SB.Actions", "Dynamics\SB.Actions\SB.Actions.csproj", "{5A1A9051-CDC3-49AA-B24E-D000778D90B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{795BC2C5-6694-4DD3-A883-C13828F64850}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{B4947639-205D-4E7F-B828-C40339E928B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{E7AD8BF7-9BBE-4A2C-AB34-AC82741E8770}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{C55F8C30-9041-4391-BB0C-6E13E6358C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{F15E06F4-5DFA-443E-881E-9C8F9FAE897C}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SB.Shared", "SB.Shared\SB.Shared.shproj", "{ABF8669B-7CEC-4E1A-B6B9-92AFB9C91FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEC2F7E-B23F-402A-8C43-BC36F1E0F3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEC2F7E-B23F-402A-8C43-BC36F1E0F3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEC2F7E-B23F-402A-8C43-BC36F1E0F3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEC2F7E-B23F-402A-8C43-BC36F1E0F3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728134BF-A9A1-4D6D-9BDA-9EFF6015C7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728134BF-A9A1-4D6D-9BDA-9EFF6015C7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728134BF-A9A1-4D6D-9BDA-9EFF6015C7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728134BF-A9A1-4D6D-9BDA-9EFF6015C7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1A9051-CDC3-49AA-B24E-D000778D90B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1A9051-CDC3-49AA-B24E-D000778D90B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1A9051-CDC3-49AA-B24E-D000778D90B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1A9051-CDC3-49AA-B24E-D000778D90B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15E06F4-5DFA-443E-881E-9C8F9FAE897C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15E06F4-5DFA-443E-881E-9C8F9FAE897C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15E06F4-5DFA-443E-881E-9C8F9FAE897C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15E06F4-5DFA-443E-881E-9C8F9FAE897C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEEC2F7E-B23F-402A-8C43-BC36F1E0F3D7} = {271B9243-8F4D-4681-AFCA-B19AFB5897F5}
+		{728134BF-A9A1-4D6D-9BDA-9EFF6015C7E1} = {271B9243-8F4D-4681-AFCA-B19AFB5897F5}
+		{5A1A9051-CDC3-49AA-B24E-D000778D90B4} = {271B9243-8F4D-4681-AFCA-B19AFB5897F5}
+		{795BC2C5-6694-4DD3-A883-C13828F64850} = {271B9243-8F4D-4681-AFCA-B19AFB5897F5}
+		{E7AD8BF7-9BBE-4A2C-AB34-AC82741E8770} = {B4947639-205D-4E7F-B828-C40339E928B6}
+		{C55F8C30-9041-4391-BB0C-6E13E6358C7E} = {B4947639-205D-4E7F-B828-C40339E928B6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B00A3F0-8F34-4B30-8A15-0FD62D7C3CAF}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SB.Shared\SB.Shared.projitems*{5a1a9051-cdc3-49aa-b24e-d000778d90b4}*SharedItemsImports = 5
+		SB.Shared\SB.Shared.projitems*{728134bf-a9a1-4d6d-9bda-9eff6015c7e1}*SharedItemsImports = 5
+		SB.Shared\SB.Shared.projitems*{abf8669b-7cec-4e1a-b6b9-92afb9c91fa2}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

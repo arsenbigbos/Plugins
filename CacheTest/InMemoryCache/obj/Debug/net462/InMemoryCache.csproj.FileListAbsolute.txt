@@ -1,0 +1,12 @@
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\bin\Debug\net462\InMemoryCache.dll
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\bin\Debug\net462\InMemoryCache.pdb
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\bin\Debug\net462\Microsoft.Crm.Sdk.Proxy.dll
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\bin\Debug\net462\Microsoft.Xrm.Sdk.dll
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\obj\Debug\net462\InMemoryCache.csproj.AssemblyReference.cache
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\obj\Debug\net462\InMemoryCache.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\obj\Debug\net462\InMemoryCache.AssemblyInfoInputs.cache
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\obj\Debug\net462\InMemoryCache.AssemblyInfo.cs
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\obj\Debug\net462\InMemoryCache.csproj.CoreCompileInputs.cache
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\obj\Debug\net462\InMemoryCache.csproj.CopyComplete
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\obj\Debug\net462\InMemoryCache.dll
+D:\Documents\SMART IT\Training\CacheTest\InMemoryCache\obj\Debug\net462\InMemoryCache.pdb

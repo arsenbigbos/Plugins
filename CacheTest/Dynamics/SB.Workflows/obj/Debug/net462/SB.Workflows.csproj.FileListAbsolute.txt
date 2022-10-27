@@ -1,0 +1,12 @@
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\bin\Debug\net462\SB.Workflows.dll
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\bin\Debug\net462\SB.Workflows.pdb
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\bin\Debug\net462\Microsoft.Crm.Sdk.Proxy.dll
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\bin\Debug\net462\Microsoft.Xrm.Sdk.dll
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\obj\Debug\net462\SB.Workflows.csproj.AssemblyReference.cache
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\obj\Debug\net462\SB.Workflows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\obj\Debug\net462\SB.Workflows.AssemblyInfoInputs.cache
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\obj\Debug\net462\SB.Workflows.AssemblyInfo.cs
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\obj\Debug\net462\SB.Workflows.csproj.CoreCompileInputs.cache
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\obj\Debug\net462\SB.Workflows.csproj.CopyComplete
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\obj\Debug\net462\SB.Workflows.dll
+D:\Documents\SMART IT\Training\CacheTest\Dynamics\SB.Workflows\obj\Debug\net462\SB.Workflows.pdb

@@ -1,0 +1,53 @@
+{
+  "Entities": [
+    {
+      "Fields": [
+        {
+          "DisplayName": "Account Name",
+          "LogicalName": "name",
+          "EntityLogicalName": "account"
+        },
+        {
+          "DisplayName": "Email",
+          "LogicalName": "emailaddress1",
+          "EntityLogicalName": "account"
+        }
+      ],
+      "LogicalName": "account",
+      "DisplayName": "Account",
+      "ModelFileName": null,
+      "PrimaryIdAttribute": "accountid",
+      "PrimaryNameAttribute": "name"
+    },
+    {
+      "Fields": [
+        {
+          "DisplayName": "First Name",
+          "LogicalName": "firstname",
+          "EntityLogicalName": "contact"
+        },
+        {
+          "DisplayName": "Last Name",
+          "LogicalName": "lastname",
+          "EntityLogicalName": "contact"
+        },
+        {
+          "DisplayName": "Middle Name",
+          "LogicalName": "middlename",
+          "EntityLogicalName": "contact"
+        },
+        {
+          "DisplayName": "Email",
+          "LogicalName": "emailaddress1",
+          "EntityLogicalName": "contact"
+        }
+      ],
+      "LogicalName": "contact",
+      "DisplayName": "Contact",
+      "ModelFileName": null,
+      "PrimaryIdAttribute": "contactid",
+      "PrimaryNameAttribute": "fullname"
+    }
+  ],
+  "DefaultNamespace": "SB.Shared.Models.Dynamics"
+}

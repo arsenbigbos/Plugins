@@ -1,0 +1,34 @@
+{
+  "Entities": [
+    {
+      "Fields": [
+        {
+          "DisplayName": "Cache Update Frequency",
+          "LogicalName": "sb_cacheupdatefrequency",
+          "EntityLogicalName": "sb_customsettings"
+        },
+        {
+          "DisplayName": "Update Frequency",
+          "LogicalName": "sb_updatefrequency",
+          "EntityLogicalName": "sb_customsettings"
+        },
+        {
+          "DisplayName": "Last Refreshed",
+          "LogicalName": "sb_lastrefreshed",
+          "EntityLogicalName": "sb_customsettings"
+        },
+        {
+          "DisplayName": "Invitation Workflow",
+          "LogicalName": "sb_invitationworkflow",
+          "EntityLogicalName": "sb_customsettings"
+        }
+      ],
+      "LogicalName": "sb_customsettings",
+      "DisplayName": "SB Custom Settings",
+      "ModelFileName": null,
+      "PrimaryIdAttribute": "sb_customsettingsid",
+      "PrimaryNameAttribute": "sb_name"
+    }
+  ],
+  "DefaultNamespace": "SB.Shared.Models.Dynamics"
+}

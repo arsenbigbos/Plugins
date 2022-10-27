@@ -1,0 +1,28 @@
+
+AuthType=ClientSecret; url=https://contoso:8080/Test; ClientId={​​​​​​AppId}​​​​​​; 
+ClientSecret={​​​​​​ClientSecret}​​​​​​
+
+
+{​​​​​
+
+  "ConnectionStrings": {​​​​​
+
+    "AppConfiguration":"Endpoint=https://lp-crm-dev-ac.azconfig.io;Id=sz9D-l9-s0:O/23Xur5ZowrBMKxlDLq;Secret=lZlvFd72RxP5v8cm9HlTN46ikX9yMLZqGRi6+Z3VaZw="
+
+  }​​​​​
+
+ }​​​​​
+
+app client id:
+e74ff7ad-a42e-41f7-8cb1-aa2d1ce34ef6
+
+value:
+n4H8Q~pscMSQqONCSDvZkl--kCeG_StSEGToVcmH
+
+secret id:
+f3f4ef9b-c51c-45bf-b459-3cffc2364a60
+
+arukr secret: u5g8Q~4sk4Zdw.S53ecE.eM-7MRQsKQy5REH.cEy
+
+connection string
+https://orgceaeaae7.crm4.dynamics.com/main.aspx?appid=e947d39b-d8e3-ec11-bb3d-000d3adca45d&pagetype=entityrecord&etn=contact&id=80ac35a0-01af-ea11-a812-000d3a8b3ec6
